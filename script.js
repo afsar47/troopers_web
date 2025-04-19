@@ -58,7 +58,7 @@ if (newsletterForm) {
         
         // Here you would typically send the email to your server
         // For demo purposes, we'll just show an alert
-        alert(`Thank you for subscribing with ${email}! You'll receive updates about TROPPER.LIVE soon.`);
+        alert(`Thank you for subscribing with ${email}! You'll receive updates about Trooper.live soon.`);
         
         newsletterForm.reset();
     });
